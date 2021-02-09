@@ -1,1 +1,1 @@
-# adifatkhurozi.github.io
+# .github.io
